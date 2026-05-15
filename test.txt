@@ -1,1 +1,1 @@
-trigger github action
+rigger github action
